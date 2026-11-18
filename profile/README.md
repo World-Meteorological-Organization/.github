@@ -1,6 +1,6 @@
 # World Meteorological Organization
 
-Open Source Software developed to support WMO initiatives are made available under this GitHub organization.
+This GitHub organization contains the code for Open Source Software projects developed to support WMO initiatives. 
 
 
 
